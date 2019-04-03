@@ -110,6 +110,7 @@ function purchaseOrder(qty, id) {
             connection.query(query, [{ stock_quantity: newStock }, { item_id: id }], function (err, res) {
                 console.log("updated stock")
                 console.log(price);
+                // call endConnection function
                 endConnection();
             })
 
