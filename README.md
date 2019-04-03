@@ -7,6 +7,7 @@ This app is an Amazon-like storefront that works with MySQL. The app will take i
 ## Product Demo
 
 ![](https://github.com/KTurnage/bamazon/blob/master/assets/Bamazon_Kapture%202019-04-02%20at%2021.58.00.gif)
+
 ![](https://github.com/KTurnage/bamazon/blob/master/assets/bamazon.15sec.pt1Kapture%202019-04-02%20at%2022.56.54.gif)
 
 <img>https://github.com/KTurnage/bamazon/blob/master/assets/Bamazon_Kapture%202019-04-02%20at%2021.58.00.gif</img>
