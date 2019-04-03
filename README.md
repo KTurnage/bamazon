@@ -7,7 +7,7 @@ This app is an Amazon-like storefront that works with MySQL. The app will take i
 ## Product Demo
 
 ![](https://github.com/KTurnage/bamazon/blob/master/assets/Bamazon_Kapture%202019-04-02%20at%2021.58.00.gif)
-
+![](https://github.com/KTurnage/bamazon/blob/master/assets/bamazon.15sec.pt1Kapture%202019-04-02%20at%2022.56.54.gif)
 
 <img>https://github.com/KTurnage/bamazon/blob/master/assets/Bamazon_Kapture%202019-04-02%20at%2021.58.00.gif</img>
 
@@ -22,12 +22,12 @@ You will run the JavaScript file in your command line to initiate the app. You w
 
 ## Prerequisites
 MySQL - 
-To install: in your comman line, cd into the directory. Run the command 
+To install: in your command line, cd into the directory. Run the following command 
 
 npm install mysql  
 
 Inquirer -
-To install: in your comman line, cd into the directory. Run the command 
+To install: in your command line, cd into the directory. Run the following command 
 
 npm install inquirer
 
