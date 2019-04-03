@@ -1,12 +1,13 @@
 # Bamazon
 
 
-This app is an Amazon-like storefront that works with MySQL. The app will take in orders from customers and deplete stock from the store's inventory. 
+This app is an Amazon-like storefront that works with MySQL. The app will take in orders from customers and deplete stock from the store's inventory as items are ordered.
 
 
 ## Product Demo
 
-![](https://github.com/KTurnage/bamazon/tree/master/assets/Bamazon_Kapture 2019-04-02 at 21.58.00.gif)
+![](https://github.com/KTurnage/bamazon/blob/master/assets/Bamazon_Kapture%202019-04-02%20at%2021.58.00.gif)
+
 
 
 
