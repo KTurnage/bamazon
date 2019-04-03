@@ -9,7 +9,9 @@ This app is an Amazon-like storefront that works with MySQL. The app will take i
 ![](https://github.com/KTurnage/bamazon/blob/master/assets/Bamazon_Kapture%202019-04-02%20at%2021.58.00.gif)
 
 
+<img>https://github.com/KTurnage/bamazon/blob/master/assets/Bamazon_Kapture%202019-04-02%20at%2021.58.00.gif</img>
 
+[[ https://github.com/KTurnage/bamazon/blob/master/assets/Bamazon_Kapture%202019-04-02%20at%2021.58.00.gif | height = 100px ]]
 
 
 ## Getting Started
